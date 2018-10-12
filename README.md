@@ -14,7 +14,7 @@ Idea- On the very Important topic "Find better ways to save lives and prevent ec
 
 # We will work on our project named "E-Aapda".
 
-For Detailed prescription of Idea move to line no ()
+For Detailed prescription of Idea move to line no (27)
 
 India, owing to its geography is prone to hazards. The collision zone of the Indo plate with the Asian plate (that also gives India the mighty Himalayas) sees a lot of seismic activity (or earthquakes).We suffered a lot from Gujarat Earthquake in 2001.
 
